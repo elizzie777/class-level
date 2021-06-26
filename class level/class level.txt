@@ -1,0 +1,13 @@
+var maths = [30,40,45,35];
+for(var i=0;i<maths.length;i++)
+{
+    console.log(maths[i])
+
+}
+function setup(){
+    createCanvas(400,400);
+
+}
+function draw(){
+    bakground(150)
+}
